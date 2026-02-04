@@ -9,6 +9,10 @@
 -   **Premium Design**: Modern, clean, and professional layouts (Dark Mode included).
 -   **PDF Export**: Download your resume as a perfectly formatted PDF.
 -   **Templates**: Choose from various templates suited for Software, Data, and more.
+<img width="1463" height="790" alt="image" src="https://github.com/user-attachments/assets/799ff0bb-d8f9-466e-a6b8-e2051980e983" />
+<img width="1313" height="860" alt="image" src="https://github.com/user-attachments/assets/048fdc51-1de8-4c5f-9b98-cc6bf16274c8" />
+<img width="1372" height="860" alt="image" src="https://github.com/user-attachments/assets/815bf66b-cbd9-458c-a423-3e1da4893687" />
+
 
 ## Tech Stack
 
